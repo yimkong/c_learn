@@ -8,3 +8,6 @@ copyfile
 1-12
 testArray
 wordGraph
+testCharArray
+testPrintArray
+testExternal

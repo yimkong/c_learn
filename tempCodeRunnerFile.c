@@ -1,0 +1,1 @@
+getchar()) != EOF && c != '\n'

@@ -8,5 +8,4 @@ main(){
         putchar(c);
         c = getchar();
     }
-    
 }
