@@ -27,11 +27,11 @@ main()
     while (++i < 100)
     {
         if(digit[i] == 0){
-            continue;˝
+            continue;
         }
         printf("%3d => ",i);
         for (int j = 0; j < digit[i]; j++)
-        {
+        { 
             printf("*");
         }
         printf("\n");
