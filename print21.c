@@ -1,4 +1,4 @@
-˝#include <stdio.h>
+#include <stdio.h>
 #define MAXLINE 1000
 //运行该程序在terminal输入多行数据，并ctrl+d结束，该程序会打印最长的一行
 int get_line(char line[], int maxline);
